@@ -1,0 +1,11 @@
+{
+	"name": "Goat42",
+	"description": "A goat like Cristiano Ronaldo",
+	"image": "https://ipfs.io/ipfs/QmeHSEGqqtQvNwk4oquDBHUea13euZbKaowcFbwXHqfX5H",
+	"attributes": [
+	  {
+		"trait_type": "Artist",
+		"value": "alouzizi"
+	  }
+	]
+  } 
